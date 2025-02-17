@@ -1,0 +1,1 @@
+I Made a repository on github. I had to make 2 meaningful commits to the repository for the "about me" site. I had to create a branch name feature/student-details. I had to add 3 seperate files called student-info.txt, report.md and index.html respectively. On my first commit I had to have a special message for the commit. Lastly I had to deploy the html file to my github pages.
